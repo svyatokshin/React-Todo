@@ -1,0 +1,39 @@
+.item.completed {
+    background-color: papayawhip;
+    color: red;
+    text-decoration: line-through;
+  }
+  .item{
+      text-align: center;
+  }
+  .list-of-tasks{
+      background-color: papayawhip;
+      padding-bottom: 3%; 
+      padding-top:3%;
+  }
+  .clear-btn{
+      margin-left: 10px;
+      color: white;
+      background: red;
+      border-color: grey;
+      border-radius:10px;
+  }
+  .addButton{
+    margin-left: 10px;
+    color: white;
+    background: green;
+    border-color: grey;
+    border-radius:10px;
+}
+.card{
+    width: 150px;
+    height:100px;
+    background: dodgerblue;
+    
+}
+  body{
+      background-color: white;
+  }
+  h1{
+      color: black;
+  }
